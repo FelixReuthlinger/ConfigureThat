@@ -1,0 +1,105 @@
+sapling_seedonion:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+Beech_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 0.8
+  MaxScale: 1.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+PineTree_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 1.5
+  MaxScale: 2.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+FirTree_Sapling:
+  GrowTime: 3000
+  GrowRadius: 2
+  MinScale: 1
+  MaxScale: 2.5
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+sapling_onion:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_turnip:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+Oak_Sapling:
+  GrowTime: 6000
+  GrowRadius: 3
+  MinScale: 0.7
+  MaxScale: 0.9
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+sapling_barley:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_jotunpuffs:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+Birch_Sapling:
+  GrowTime: 5000
+  GrowRadius: 2
+  MinScale: 0.5
+  MaxScale: 1
+  NeedCultivatedGround: false
+  DestroyIfCantGrow: true
+sapling_carrot:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_seedcarrot:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_flax:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_magecap:
+  GrowTime: 4000
+  GrowRadius: 0.8
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true
+sapling_seedturnip:
+  GrowTime: 4000
+  GrowRadius: 0.5
+  MinScale: 0.9
+  MaxScale: 1.1
+  NeedCultivatedGround: true
+  DestroyIfCantGrow: true

@@ -1,0 +1,5103 @@
+Fish1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish11:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish12:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish4_cave:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+Fish9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Fish
+ArmorBronzeChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorCarapaceChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress4:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorDress9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorFenringChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorIronChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 15
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorLeatherChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorMageChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorPaddedCuirass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorRagsChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorRootChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTrollLeatherChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic4:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorTunic9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+ArmorWolfChest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 15
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+DvergerSuitArbalest:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+DvergerSuitFire:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+DvergerSuitIce:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+DvergerSuitSupport:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+GoblinArmband:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+GoblinBrute_ArmGuard:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+GoblinHelmet:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+GoblinLegband:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+GoblinShoulders:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+StoneGolem_clubs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+StoneGolem_spikes:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Chest
+CapeDeerHide:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeFeather:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeLinen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeLox:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeOdin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeTest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeTrollHide:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+CapeWolf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+GoblinBrute_ShoulderGuard:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shoulder
+ArmorBronzeLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorCarapaceLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorFenringLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorIronLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 15
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorLeatherLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorMageLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorPaddedGreaves:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorRagsLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorRootLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorTrollLeatherLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+ArmorWolfLegs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 15
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+DvergerHairFemale:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+GoblinBrute_HipCloth:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+GoblinLoin:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Legs
+DvergerHairMale:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+GoblinBrute_Backbones:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+GoblinBrute_ExecutionerCap:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+GoblinShaman_Headdress_antlers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+GoblinShaman_Headdress_feathers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetCarapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetDrake:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetDverger:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetFenring:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetFishingHat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat4:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetHat9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetLeather:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetMage:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetMidsummerCrown:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetOdin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetPadded:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetPointyHat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetRoot:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetTrollLeather:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+HelmetYule:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+StoneGolem_hat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Helmet
+BeltStrength:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+Demister:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+DvergerArbalest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+DvergerStaffFire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+DvergerStaffHeal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+DvergerStaffIce:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+DvergerStaffSupport:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+GoblinBrute_LegBones:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+GoblinShaman_Staff_Bones:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+GoblinShaman_Staff_Feathers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+GoblinShaman_Staff_Hildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+Wishbone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Utility
+Abomination_attack1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Abomination_attack2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Abomination_attack3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeBlackMetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeFlint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeJotunBane:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+AxeStone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+babyseeker_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+bat_melee:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+blob_attack_aoe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+blobelite_attack_aoe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+blobtar_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+boar_base_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+BombBile:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: OneHandedWeapon
+BombOoze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: OneHandedWeapon
+bonemass_attack_aoe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+bonemass_attack_punch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+bonemass_attack_spawn:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+bonemass_attack_throw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Club:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Deathsquito_sting:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_bite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_claw_left:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_claw_right:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_coldbreath:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_coldbreath_OLD:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_spit_shotgun:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+dragon_taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+draugr_axe:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+draugr_sword:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Dverger_melee:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerArbalest_shoot:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerMistile:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffBlocker:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffFire_clusterbomb:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffFire_fireball:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffHeal_heal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffIce_icebolt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffNova:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+DvergerStaffSupport_buff:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Eikthyr_antler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Eikthyr_charge:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Eikthyr_flegs_OLD:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Eikthyr_stomp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_claw:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_fireclaw:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_fireclaw_double:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_flames:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_frost:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_iceclaw:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_iceclaw_double:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_IceNova:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_attack_jump:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Fenring_taunt:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gd_king_punch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gd_king_rootspawn:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gd_king_scream:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gd_king_shoot:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gd_king_stomp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Ghost_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gjall_attack_egg:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gjall_attack_shake:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gjall_attack_spit:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+gjall_attack_taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinBrute_Attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinBrute_RageAttack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinBrute_Taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinBruteBros_Attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinBruteBros_RageAttack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinClub:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinKing_Beam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinKing_Meteors:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinKing_Nova:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinKing_Taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinShaman_attack_fireball:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinShaman_attack_fireball_hildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinShaman_attack_poke:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinShaman_attack_protect:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinShaman_attack_protect_hildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinSpear:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: OneHandedWeapon
+GoblinSword:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+GoblinTorch:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greydwarf_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greydwarf_elite_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greydwarf_shaman_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greydwarf_shaman_heal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greydwarf_throw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Greyling_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+hatchling_spit_cold:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+hive_attack_aoe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+hive_attack_punch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+hive_attack_ranged:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+hive_attack_throw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+imp_fireball_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeBlackMetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeButcher:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeChitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeCopper:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeFlint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+KnifeSilver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Leech_BiteAttack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+lox_bite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+lox_stomp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+MaceBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+MaceIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+MaceNeedle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+MaceSilver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Mistile_kamikaze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Neck_BiteAttack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+PlayerUnarmed:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_claw_left:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_claw_right:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_groundslam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_groundslam_flying:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_land:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_pincers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+seeker_takeoff:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerBrute_bite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerBrute_groundslam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerBrute_ram:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerBrute_Taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Bite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Call:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_PierceAOE:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Rush:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Slap:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Spit:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SeekerQueen_Teleport:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Serpent_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Serpent_taunt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+skeleton_hildir_firenova:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+skeleton_mace:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+skeleton_sword:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+skeleton_sword_hildir:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+skeleton_sword2:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearCarapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearChitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearElderbark:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearFlint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SpearWolfFang:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+stonegolem_attack_doublesmash:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+stonegolem_attack_sonicboom_NOTUSED:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+stonegolem_attack1_spike:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+stonegolem_attack2_left_groundslam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+stonegolem_attack3_spikesweep:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordBlackmetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.8
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.8
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordCheat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.8
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordIronFire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordMistwalker:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.8
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+SwordSilver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Tankard:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Tankard_dvergr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+TankardAnniversary:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+TankardOdin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+tentaroot_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+tick_attack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+tick_attack_attach:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+troll_groundslam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+troll_log_swing_h:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+troll_log_swing_v:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+troll_punch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+troll_throw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Ulv_attack1_bite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Ulv_attack2_slash:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Wolf_Attack1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Wolf_Attack2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+Wolf_Attack3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+wraith_melee:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: OneHandedWeapon
+BarleyWine:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+BlackSoup:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+BloodPudding:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Blueberries:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+BoarJerky:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+Bread:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+Carrot:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+CarrotSoup:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Cloudberry:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+CookedBugMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedChickenMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedDeerMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedEgg:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedHareMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedLoxMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+CookedWolfMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+DeerStew:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Eyescream:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+FishAndBread:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+FishCooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+FishWraps:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+HealthUpgrade_Bonemass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Consumable
+HealthUpgrade_GDKing:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Consumable
+Honey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+HoneyGlazedChicken:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+LoxPie:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MagicallyStuffedShroom:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadEitrMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadFrostResist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadHealthMajor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadHealthMedium:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadHealthMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadPoisonResist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadStaminaLingering:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadStaminaMedium:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadStaminaMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeadTasty:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MeatPlatter:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MinceMeatSauce:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MisthareSupreme:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Mushroom:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+MushroomBlue:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+MushroomJotunPuffs:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+MushroomMagecap:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+MushroomOmelette:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+MushroomYellow:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+NeckTailGrilled:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+Onion:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+OnionSoup:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Pukeberries:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+QueensJam:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Raspberry:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+RottenMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+RoyalJelly:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+Salad:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Sausages:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+SeekerAspic:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+SerpentMeatCooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Consumable
+SerpentStew:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+ShocklateSmoothie:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+StaminaUpgrade_Greydwarf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Consumable
+StaminaUpgrade_Troll:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Consumable
+StaminaUpgrade_Wraith:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Consumable
+TurnipStew:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+WolfJerky:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+WolfMeatSkewer:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Consumable
+YggdrasilPorridge:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Consumable
+Acorn:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+Amber:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 5
+  MaxStackSize: 20
+  ItemType: Material
+AmberPearl:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 10
+  MaxStackSize: 50
+  ItemType: Material
+AncientSeed:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Barley:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+BarleyFlour:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+BarleyWineBase:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+BeechSeeds:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+Bilebag:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+BirchSeeds:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+BlackCore:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+BlackMarble:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+BlackMetal:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+BlackMetalScrap:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Bloodbag:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+BoneFragments:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+BreadDough:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Bronze:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+BronzeNails:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+BronzeScrap:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+BugMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Carapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+CarrotSeeds:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+Chain:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+ChickenMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Chitin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Coal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Coins:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 1
+  MaxStackSize: 999
+  ItemType: Material
+Copper:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+CopperOre:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+CopperScrap:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Crystal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Dandelion:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+DeerHide:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+DeerMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+DragonTear:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+DvergrKeyFragment:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 9
+  ItemType: Material
+DvergrNeedle:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+Eitr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+ElderBark:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Entrails:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Feathers:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+FineWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+FirCone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+FireworksRocket_Blue:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_Cyan:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_Green:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_Purple:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_Red:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_White:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FireworksRocket_Yellow:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FishAndBreadUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+FishAnglerRaw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+FishRaw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Flametal:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+FlametalOre:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Flax:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+Flint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+FreezeGland:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+GiantBloodSack:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+GreydwarfEye:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Guck:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+HardAntler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+HareMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+HoneyGlazedChickenUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+Iron:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 12
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+IronNails:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+IronOre:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Ironpit:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+IronScrap:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 10
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+JuteBlue:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+JuteRed:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Larva:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+LeatherScraps:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+LinenThread:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+LoxMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+LoxPelt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+LoxPieUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+MagicallyStuffedShroomUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+Mandible:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+MeadBaseEitrMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseFrostResist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseHealthMajor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseHealthMedium:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseHealthMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBasePoisonResist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseStaminaLingering:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseStaminaMedium:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseStaminaMinor:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeadBaseTasty:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Material
+MeatPlatterUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+MechanicalSpring:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+MisthareSupremeUncooked:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+NeckTail:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Needle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Obsidian:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+OnionSeeds:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+Ooze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+PineCone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+QueenBee:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+QueenDrop:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+RawMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Resin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Root:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+RoundLog:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Ruby:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 20
+  MaxStackSize: 20
+  ItemType: Material
+Sap:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+ScaleHide:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+SerpentMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+SerpentScale:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+SharpeningStone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 6
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Silver:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 14
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+SilverNecklace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 30
+  MaxStackSize: 20
+  ItemType: Material
+SilverOre:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 14
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Softtissue:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 40
+  ItemType: Material
+Stone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+SurtlingCore:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 10
+  ItemType: Material
+Tar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Thistle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Thunderstone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+Tin:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 8
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+TinOre:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 8
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+TrollHide:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+TurnipSeeds:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Material
+VegvisirShard_Bonemass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+Wisp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+WitheredBone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+WolfClaw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+WolfFang:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+WolfHairBundle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+WolfMeat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Material
+WolfPelt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+Wood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+YagluthDrop:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Material
+YggdrasilWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+YmirRemains:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Material
+ArrowBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowCarapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowFire:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowFlint:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowFrost:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowNeedle:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowObsidian:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowPoison:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowSilver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+ArrowWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+BoltBlackmetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+BoltBone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+BoltCarapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+BoltIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+draugr_arrow:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Ammo
+FishingBait:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitAshlands:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitCave:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitDeepNorth:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitForest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitMistlands:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitOcean:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitPlains:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+FishingBaitSwamp:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 100
+  ItemType: Ammo
+AtgeirBlackmetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+AtgeirBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+AtgeirHimminAfl:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+AtgeirIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+Battleaxe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+BattleaxeCrystal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+FishingRod:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+FistFenrirClaw:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+KnifeSkollAndHati:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+PickaxeAntler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+PickaxeBlackMetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+PickaxeBronze:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+PickaxeIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+PickaxeStone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+SledgeCheat:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+SledgeDemolisher:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+SledgeIron:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+SledgeStagbreaker:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+StaffFireball:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+StaffIceShards:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+StaffShield:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+THSwordKrom:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeapon
+Bow:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+BowDraugrFang:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+BowFineWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+BowHuntsman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+BowSpineSnap:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+CrossbowArbalest:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+draugr_bow:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+skeleton_bow:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+skeleton_bow2:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Bow
+BarberKit:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+chest_hildir1:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 200
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+chest_hildir2:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 200
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+chest_hildir3:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 200
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+ChickenEgg:
+  AutoPickup: false
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Misc
+CryptKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+DragonEgg:
+  AutoPickup: true
+  Teleportable: false
+  Weight: 200
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+DvergrKey:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+GoblinTotem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 30
+  ItemType: Misc
+HildirKey_forestcrypt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+HildirKey_mountaincave:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+HildirKey_plainsfortress:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+SaddleLox:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 10
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Misc
+Turnip:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 50
+  ItemType: Misc
+TurretBolt:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: AmmoNonEquipable
+TurretBoltWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 100
+  ItemType: AmmoNonEquipable
+StaffSkeleton:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: TwoHandedWeaponLeft
+Cultivator:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Tool
+Hammer:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Tool
+Hoe:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Tool
+Beard1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard11:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard12:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard13:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard14:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard15:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard16:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard17:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard18:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard19:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard20:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard21:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard4:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Beard9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+BeardNone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair1:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair10:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair10_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair11:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair11_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair11_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair12:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair12_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair13:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair13_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair13_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair14:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair14_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair15:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair15_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair15_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair16:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair16_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair17:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair17_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair18:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair18_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair19:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair20:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair21:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair21_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair22:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair22_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair23:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair24:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair24_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair24_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair25:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair26:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair27:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair27_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair27_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair28:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair28_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair28_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair29:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair29_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair3_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair3_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair30:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair30_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair30_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair31:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair31_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair31_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair4:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair4_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair4_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair5:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair5_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair6:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair6_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair6_3:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair7:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair7_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair8:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair8_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair9:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+Hair9_2:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+HairNone:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Customization
+TrophyAbomination:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyBlob:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyBoar:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyBonemass:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyCultist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyCultist_Hildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDeathsquito:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDeer:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDragonQueen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDraugr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDraugrElite:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDraugrFem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyDvergr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyEikthyr:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyFenring:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyForestTroll:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyFrostTroll:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGjall:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblin:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblinBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblinBruteBrosBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblinBruteBrosShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblinKing:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGoblinShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGreydwarf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGreydwarfBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGreydwarfShaman:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyGrowth:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyHare:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyHatchling:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyLeech:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyLox:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyNeck:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySeeker:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySeekerBrute:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySeekerQueen:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySerpent:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 25
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySGolem:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySkeleton:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySkeletonHildir:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySkeletonPoison:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 0.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophySurtling:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyTheElder:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyTick:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyUlv:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyWolf:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1.5
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+TrophyWraith:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 20
+  ItemType: Trophy
+ShieldBanded:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldBlackmetal:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldBlackmetalTower:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldBoneTower:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldBronzeBuckler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 3
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldCarapace:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldCarapaceBuckler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldIronBuckler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldIronSquare:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldIronTower:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldKnight:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldSerpentscale:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldSilver:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 5
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldWood:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+ShieldWoodTower:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 4
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Shield
+Lantern:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 2
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Torch
+Sparkler:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Torch
+Torch:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Torch
+TorchMist:
+  AutoPickup: true
+  Teleportable: true
+  Weight: 1
+  Value: 0
+  MaxStackSize: 1
+  ItemType: Torch
