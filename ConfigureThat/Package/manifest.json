@@ -1,7 +1,7 @@
 ﻿{
   "name": "Configure_That",
   "description": "Tiny mod to just configure some values that no other tiny mod does allow to configure.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/FelixReuthlinger/ConfigureThat",
   "dependencies": [
     "ValheimModding-Jotunn-2.15.0",

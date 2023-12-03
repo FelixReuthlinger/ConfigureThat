@@ -22,7 +22,7 @@ namespace ConfigureThat
         internal const string PluginAuthor = "FixItFelix";
         internal const string PluginGuid = PluginAuthor + "." + PluginName;
         internal const string PluginName = "ConfigureThat";
-        internal const string PluginVersion = "1.0.0";
+        internal const string PluginVersion = "1.0.1";
 
         private static ConfigureThatPlugin _instance = null!;
 
@@ -39,7 +39,6 @@ namespace ConfigureThat
         public void Awake()
         {
             _instance = this;
-            Logger.LogInfo($"loading");
 
             _configLocked = CreateConfig("1 - General", "Lock Configuration", true,
                 "If 'true' and playing on a server, config can only be changed on server-side configuration, " +

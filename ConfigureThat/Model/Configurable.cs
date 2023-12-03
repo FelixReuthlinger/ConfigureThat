@@ -8,14 +8,13 @@ using Logger = Jotunn.Logger;
 
 namespace ConfigureThat.Model;
 
-public abstract class Configurable<GameType> where GameType : MonoBehaviour 
+public abstract class Configurable<GameType> where GameType : MonoBehaviour
 {
     [UsedImplicitly]
     public abstract void Configure(GameType original);
 }
 
-
-public class ConfigObject<ConfiguredType, GameType> 
+public class ConfigObject<ConfiguredType, GameType>
     where ConfiguredType : Configurable<GameType>
     where GameType : MonoBehaviour
 {
@@ -44,14 +43,12 @@ public class ConfigObject<ConfiguredType, GameType>
 
     public void ConfigureAll()
     {
-        foreach (var plantConfig in Value)
-        {
-            GameObject plantGameObject = PrefabManager.Instance.GetPrefab(plantConfig.Key);
-            if (!plantGameObject) continue;
-            if (plantGameObject.TryGetComponent(out GameType plant))
+        if (Value != null)
+            foreach (var config in Value)
             {
-                plantConfig.Value.Configure(plant);
+                GameObject gameObject = PrefabManager.Instance.GetPrefab(config.Key);
+                if (!gameObject) continue;
+                if (gameObject.TryGetComponent(out GameType plant)) config.Value.Configure(plant);
             }
-        }
     }
 }
