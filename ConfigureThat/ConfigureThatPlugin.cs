@@ -22,7 +22,7 @@ namespace ConfigureThat
         internal const string PluginAuthor = "FixItFelix";
         internal const string PluginGuid = PluginAuthor + "." + PluginName;
         internal const string PluginName = "ConfigureThat";
-        internal const string PluginVersion = "1.0.1";
+        internal const string PluginVersion = "1.0.2";
 
         private static ConfigureThatPlugin _instance = null!;
 
